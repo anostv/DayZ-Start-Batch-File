@@ -1,7 +1,7 @@
 @echo off
 :start
-::Server name
-set serverName=Chernarus Local Server
+::Server name (Change to whatever you want to call your server)
+set serverName=Your Server Name Here
 ::Server files location
 set serverLocation="D:\Steam\steamapps\common\DayZServer"
 ::Server Port
